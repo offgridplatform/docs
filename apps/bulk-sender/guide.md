@@ -4,13 +4,25 @@ description: The how-to guide for OGP Bulk Sender.
 
 # Guide
 
+To get to OGP Bulk Sender, visit [https://www.offgridplatform.com/apps](https://www.offgridplatform.com/apps) and then click "Bulk Sender" from the application menu. Once you have done this, click "Launch" to launch the application or you may visit the application directly by going to [https://www.offgridplatform.com/apps/bulk-sender](https://www.offgridplatform.com/apps/bulk-sender).
+
+<figure><img src="../../.gitbook/assets/ogpbsdemo1.png" alt=""><figcaption><p>Applications page with Bulk Sender selected</p></figcaption></figure>
+
 ## Sending in bulk
 
 This section will walk you through on how to send cryptocurrencies and NFTs in batches, to many addresses. We have divided this section in two separate parts, one for cryptocurrencies and the other for NFTs.
 
-### Bulk sending native currency and tokens
+You can send native currencies such as Ether in batches using OGP Bulk Sender. To do that you must follow the format that is supported. There are examples provided to help you get started. To view the examples, click on the link at the bottom where it says "See examples" and you will be shown a dialog message as shown in the image below.
 
-### Bulk sending NFTs
+Follow the examples provided and update them according to your needs - be sure to replace the example data with your real data.
+
+<figure><img src="../../.gitbook/assets/ogpbsdemo2.png" alt=""><figcaption><p>Bulk Sender examples dialog</p></figcaption></figure>
+
+### Bulk sending native currency and ERC-20 tokens
+
+
+
+### Bulk sending ERC-721 and ERC-1155 tokens
 
 ## VIP member subscription
 
