@@ -14,7 +14,7 @@ This section will walk you through on how to send cryptocurrencies and NFTs in b
 
 You can send native currencies such as Ether or tokens in batches using OGP Bulk Sender. To do that you must follow the format that is supported. Examples that follow this format are provided to help you get started. To view examples, click on the link at the bottom where it says "See examples" and you will be shown a dialog message as shown in the image below.
 
-Follow these examples and update them according to your needs - be sure to replace example data with your real data.
+Follow these examples and update them according to your needs - be sure to replace example data for addresses and their values with your real data.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo2.png" alt=""><figcaption><p>Bulk Sender examples dialog</p></figcaption></figure>
 
