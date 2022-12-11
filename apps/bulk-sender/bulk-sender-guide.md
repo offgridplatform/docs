@@ -32,7 +32,7 @@ If you want to send a native currency such as Ether to your addresses, simply cl
 
 Once you have selected or entered your cryptocurrency's address, be sure to verify the decimals entry is correct.&#x20;
 
-Now you're ready to upload those addresses and their values you created. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
+Now you're ready to upload those addresses and their values you created earlier. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
 
 {% hint style="info" %}
 Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
@@ -56,7 +56,7 @@ To send NFTs you must have the address of the NFT you wish to send. Simply enter
 
 Once you have entered the respective NFT address you will see a label for either "ERC-721" or "ERC-1155" next to your address.&#x20;
 
-Now you're ready to upload those addresses and their values you created. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
+Now you are ready to upload those addresses and their values you created earlier. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
 
 {% hint style="info" %}
 Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
