@@ -18,13 +18,17 @@ Follow these examples and update them according to your needs - be sure to repla
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo2.png" alt=""><figcaption><p>Bulk Sender examples dialog</p></figcaption></figure>
 
+Once you have compiled a list of addresses and values for bulk sending, you are ready to move to the next steps.
+
 {% hint style="info" %}
 Pro Tip - before executing on mainnet, you can first test things out on your desired network's respective testnet.
 {% endhint %}
 
 ### Bulk sending native currency and ERC-20 tokens
 
+If you want to send a native currency such as Ether to your addresses, simply click the dropdown icon where it says "Select or enter token address" and select the native currency.
 
+<figure><img src="../../.gitbook/assets/ogpbsdemo3.png" alt=""><figcaption><p>Bulk Sender select or enter token address</p></figcaption></figure>
 
 ### Bulk sending ERC-721 and ERC-1155 tokens
 
