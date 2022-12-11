@@ -38,6 +38,10 @@ Now you're ready to upload those addresses and their values you created. To do t
 Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
 {% endhint %}
 
+Great, now you've selected the cryptocurrency you would like to multi-send and have uploaded the data related to your respective addresses or recipients. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the final step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract.
+
+<figure><img src="../../.gitbook/assets/ogpbsdemo4.png" alt=""><figcaption></figcaption></figure>
+
 ### Bulk sending ERC-721 and ERC-1155 tokens
 
 ## VIP member subscription
