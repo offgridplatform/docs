@@ -8,4 +8,4 @@
 ## Apps
 
 * [Bulk Sender](apps/bulk-sender/README.md)
-  * [Guide](apps/bulk-sender/guide.md)
+  * [Bulk Sender Guide](apps/bulk-sender/bulk-sender-guide.md)
