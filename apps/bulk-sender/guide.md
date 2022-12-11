@@ -21,7 +21,7 @@ Follow these examples and update them according to your needs - be sure to repla
 Once you have compiled a list of addresses and values for bulk sending, you are ready to move to the next steps.
 
 {% hint style="info" %}
-Pro Tip - before executing on mainnet, you can first test things out on your desired network's respective testnet.
+Pro Tip - before executing on mainnet, you can first test things out on your desired network's respective testnet. To do that, connect to your testnet in your wallet and OGP will automatically detect the testnet if it is supported. You may find a list of supported testnets in [Supported networks](../../supported-networks.md).
 {% endhint %}
 
 ### Bulk sending native currency and ERC-20 tokens
