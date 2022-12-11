@@ -26,7 +26,7 @@ Pro Tip - before executing on mainnet, you can first test things out on your des
 
 ### Bulk sending native currency and ERC-20 tokens
 
-If you want to send a native currency such as Ether to your addresses, simply click the dropdown icon where it says "Select or enter token address" and select the native currency.
+If you want to send a native currency such as Ether to your addresses, simply click the dropdown icon where it says "Select or enter token address" and select the native currency. If you are going to send ERC-20 tokens, you may select the token if it is provided in the dropdown or you may enter the address of the token manually.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo3.png" alt=""><figcaption><p>Bulk Sender select or enter token address</p></figcaption></figure>
 
