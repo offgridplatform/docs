@@ -46,7 +46,7 @@ Now we should be on the second step which is to review and validate the transact
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo5.png" alt=""><figcaption></figcaption></figure>
 
-Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by the wallet you have connected to complete the transaction. Once the transaction is submitted you may view it in your blockchain's block explorer such as Etherscan.
+Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by your wallet to complete the transaction. Once the transaction is submitted you may view it in your blockchain's block explorer such as Etherscan.
 
 ### Bulk sending ERC-721 and ERC-1155 tokens
 
@@ -70,7 +70,7 @@ Now we should be on the second step which is to review and validate the transact
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo9.png" alt=""><figcaption></figcaption></figure>
 
-Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by the wallet you have connected to complete the transaction. Once the transaction is submitted you may view it in your blockchain's block explorer such as Etherscan.
+Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by your wallet to complete the transaction. Once the transaction is submitted you may view it in your blockchain's block explorer such as Etherscan.
 
 ## VIP member subscription
 
