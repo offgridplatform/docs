@@ -38,7 +38,7 @@ Now you're ready to upload those addresses and their values you created. To do t
 Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
 {% endhint %}
 
-Great, so you have selected the cryptocurrency you would like to multi-send and have uploaded the data related to your respective addresses or recipients following the supported format. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the next step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract. Click the "Continue" button to proceed.
+Great, so you have selected the cryptocurrency you would like to multi-send and have uploaded the data related to your respective addresses or recipients following the supported format for native currencies or ERC-20. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the next step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract. Click the "Continue" button to proceed.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo4.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,13 +50,27 @@ Upon verifying the data is correct, we are ready to continue to the final step w
 
 ### Bulk sending ERC-721 and ERC-1155 tokens
 
-To send NFTs you must have the address of the NFT you wish to send. Simply enter this address manually where it says "Select or enter token address" to get started.
+To send NFTs you must have the address of the NFT you wish to send. Simply enter this address manually where it says "Select or enter token address" to get started.&#x20;
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo7.png" alt=""><figcaption></figcaption></figure>
 
+Once you have entered the respective token address you will see a label for either "ERC-721" or "ERC-1155" next to your address.&#x20;
+
+Now you're ready to upload those addresses and their values you created. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
+
+{% hint style="info" %}
+Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
+{% endhint %}
+
+Fantastic, so you have selected the NFT you would like to multi-send and have uploaded the data related to your respective addresses or recipients following the supported format for ERC-721 or ERC-1155. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the next step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract. Click the "Continue" button to proceed.
+
 <figure><img src="../../.gitbook/assets/ogpbsdemo8.png" alt=""><figcaption></figcaption></figure>
 
+Now we should be on the second step which is to review and validate the transactions needed in order to bulk send the crypto. Carefully make sure the total number of addresses is correct. You will see 1 transaction per 255 addresses.
+
 <figure><img src="../../.gitbook/assets/ogpbsdemo9.png" alt=""><figcaption></figcaption></figure>
+
+Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by the wallet you have connected to complete the transaction. Once the transaction is submitted you may view it in your blockchain's block explorer such as Etherscan.
 
 ## VIP member subscription
 
