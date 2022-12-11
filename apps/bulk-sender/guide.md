@@ -54,7 +54,7 @@ To send NFTs you must have the address of the NFT you wish to send. Simply enter
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo7.png" alt=""><figcaption></figcaption></figure>
 
-Once you have entered the respective token address you will see a label for either "ERC-721" or "ERC-1155" next to your address.&#x20;
+Once you have entered the respective NFT address you will see a label for either "ERC-721" or "ERC-1155" next to your address.&#x20;
 
 Now you're ready to upload those addresses and their values you created. To do that, you have two options, one is to enter them manually or upload them via a file. To enter manually, simply click on "add or edit manually" and paste the contents which include your addresses and their values. To upload a file that already has these contents, simply click the upload area where it says "Drop your files or click to upload" and you will be prompted to select a file - note that you may also drag and drop your file here.
 
