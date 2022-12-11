@@ -12,7 +12,7 @@ To get to OGP Bulk Sender, visit [https://www.offgridplatform.com/apps](https://
 
 This section will walk you through on how to send cryptocurrencies and NFTs in batches, to many addresses. We have divided this section in two separate parts, one for cryptocurrencies and the other for NFTs.
 
-You can send native currencies such as Ether or tokens in batches using OGP Bulk Sender. To do that you must follow the format that is supported. Examples that follow this format are provided to help you get started. To view examples, click on the link at the bottom where it says "See examples" and you will be shown a dialog message as shown in the image below.
+You can send native currencies such as Ether or tokens in batches using OGP Bulk Sender. There are 3 simple steps involved when using OGP Bulk Sender. The first step is preparation, second step is review or validation, and third step is to send the transactions to the blockchain. Step 1 requires that you follow the format that is supported for bulk sending crypto. Examples that follow this format are provided to help you get started. To view examples, click on the link at the bottom where it says "See examples" and you will be shown a dialog message as shown in the image below.
 
 Follow these examples and update them according to your needs - be sure to replace example data for addresses and their values with your real data.
 
