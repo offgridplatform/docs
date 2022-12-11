@@ -54,4 +54,10 @@ To send NFTs you must have the address of the NFT you wish to send. Simply enter
 
 ## VIP member subscription
 
-As a VIP member, you will never have to pay for OGP Bulk Sender ever again. Normally, OGP charges a small fee for using the service but if you are a repeat customer, this may be a great option for you on saving money by becoming a VIP member for the OGP Bulk Sender application. This section will walk you through on how to become a VIP member for OGP Bulk Sender.
+As a VIP member, you will never have to pay for OGP Bulk Sender ever again. Normally, OGP charges a small fee for using the service but if you are a repeat customer, this may be a great option for you on saving money by becoming a VIP member for the OGP Bulk Sender application. Each network has its own VIP subscription fee. This section will walk you through on how to become a VIP member for OGP Bulk Sender.
+
+When on the application page all you have to do is click the bottom at the top that says "VIP membership" and read the prompt.
+
+<figure><img src="../../.gitbook/assets/ogpbsdemo6.png" alt=""><figcaption></figcaption></figure>
+
+Hit the "Subscribe" button and your wallet will prompt you to complete the transaction. Once your transaction is submitted you are officially an OGP Bulk Sender VIP member and can start enjoying your benefits immediately.
