@@ -38,7 +38,7 @@ Now you're ready to upload those addresses and their values you created. To do t
 Pro Tip - we always recommend uploading a file as you can always maintain a copy and perhaps reuse it in the future.
 {% endhint %}
 
-Great, so you have selected the cryptocurrency you would like to multi-send and have uploaded the data related to your respective addresses or recipients following the supported format. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the final step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract. Click the "Continue" button to proceed.
+Great, so you have selected the cryptocurrency you would like to multi-send and have uploaded the data related to your respective addresses or recipients following the supported format. You should now see the "Continue" button light up as shown in the example image below. You are ready to proceed to the next step to validate your transaction data before sending it to be processed by the OGP Bulk Sender contract. Click the "Continue" button to proceed.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo4.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ Now we should be on the second step which is to review and validate the transact
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo5.png" alt=""><figcaption></figcaption></figure>
 
-Upon verifying the data is correct, you may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by the wallet you have connected to complete the transaction.
+Upon verifying the data is correct, we are ready to continue to the final step which is to send your transaction. You may now click the "Send" button to send the transaction to the blockchain. Once you hit "Send" you will be prompted by the wallet you have connected to complete the transaction.
 
 ### Bulk sending ERC-721 and ERC-1155 tokens
 
