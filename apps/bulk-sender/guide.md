@@ -42,7 +42,7 @@ Great, so you have selected the cryptocurrency you would like to multi-send and 
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo4.png" alt=""><figcaption></figcaption></figure>
 
-Now we should be on the second step which is to review and validate the transactions needed in order to bulk send the crypto. Carefully make sure the total number of addresses, total amount to be sent, and asset being sent are correct. You will see 1 transaction per 255 addresses.
+Now we should be on the second step which is to review and validate the transactions needed in order to bulk send your crypto. Carefully make sure the total number of addresses, total amount to be sent, and asset being sent are correct. You will see 1 transaction per 255 addresses.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo5.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ Fantastic, so you have selected the NFT you would like to multi-send and have up
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo8.png" alt=""><figcaption></figcaption></figure>
 
-Now we should be on the second step which is to review and validate the transactions needed in order to bulk send the NFT. Carefully make sure the total number of addresses is correct. You will see 1 transaction per 255 addresses.
+Now we should be on the second step which is to review and validate the transactions needed in order to bulk send your NFTs. Carefully make sure the total number of addresses is correct. You will see 1 transaction per 255 addresses.
 
 <figure><img src="../../.gitbook/assets/ogpbsdemo9.png" alt=""><figcaption></figcaption></figure>
 
