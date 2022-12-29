@@ -20,3 +20,9 @@ description: The following list shown are networks and their testnets supported.
   * Fantom Testnet
 * Celo
   * Celo Alfajores
+* Dogechain
+  * Dogechain Testnet
+* Flare
+  * Songbird
+* OKC
+  * OKC Testnet

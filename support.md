@@ -6,10 +6,14 @@ description: >-
 
 # Support
 
-## Email
+## Discord
 
-This is the best way to reach out to us, as we frequently check and respond to email messages. Our support team can be reached at [offgridplatform@pm.me](mailto:offgridplatform@pm.me), [offgridplatform@proton.me](mailto:offgridplatform@proton.me), or [offgridplatform@protonmail.com](mailto:offgridplatform@protonmail.com).
+Chat with us on Discord [https://discord.com/invite/9YJeHyd4Uv](https://discord.com/invite/9YJeHyd4Uv)
 
 ## Twitter
 
-Reach out to us on Twitter [@OffGridPlatform](https://twitter.com/offgridplatform).
+Reach out to us on Twitter [@OffGridPlatform](https://twitter.com/offgridplatform)
+
+## Email
+
+Our support team can be reached at [offgridplatform@pm.me](mailto:offgridplatform@pm.me)
